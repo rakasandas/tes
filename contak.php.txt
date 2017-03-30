@@ -29,7 +29,9 @@ else                /* send the submitted data */
         $subject="Message sent using your contact form"; 
         mail("youremail@yoursite.com", $subject, $message, $from); 
         echo "Email sent!";
-asdasdas 
+	asdasdas 
+        echo "Email sent!"; 
+echo "amak ang";
         } 
     }   
 ?> 
